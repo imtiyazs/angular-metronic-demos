@@ -1,1 +1,1 @@
-angular-metronic-demos
+Vue-metronic-demos
